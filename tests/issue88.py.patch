@@ -28,8 +28,8 @@
  
  async def async_func3(param1, param2=None):
 -    """
--    somme comment
-+    """somme comment
+-    some comment
++    """some comment
 +
      :param param1: my parameter 1
 -    :param param2: my second param

@@ -6,7 +6,7 @@ def foo():
     Returns:
 
     Raises:
-      test
+        test
 
     """
     pass
