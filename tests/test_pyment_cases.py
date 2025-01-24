@@ -47,7 +47,6 @@ class FilesConversionTests(unittest.TestCase):
         result = ''.join(p.diff())
         self.assertTrue(remove_diff_header(result) == remove_diff_header(expected))
 
-    @unittest.expectedFailure
     def testCaseGenAllParamsGoogle(self):
         # The file has several functions with no or several parameters,
         # so Pyment should produce docstrings in google format

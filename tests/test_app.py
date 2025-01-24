@@ -50,8 +50,6 @@ class AppTests(unittest.TestCase):
             Returns:
                 ret type: smthg
 
-            Raises:
-
             """
             pass
     ''')
@@ -64,7 +62,7 @@ class AppTests(unittest.TestCase):
     
         --- a/-
         +++ b/-
-        @@ -3,9 +3,12 @@
+        @@ -3,9 +3,10 @@
          def func():
              """First line
         
@@ -74,8 +72,6 @@ class AppTests(unittest.TestCase):
         -    :rtype: ret type
         +    Returns:
         +        ret type: smthg
-        +
-        +    Raises:
         
              
              """

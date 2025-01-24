@@ -452,7 +452,7 @@ class GoogledocTools(DocToolsBase):
     """ """
     def __init__(self,
                  first_line=None,
-                 optional_sections=('raise'),
+                 optional_sections=('raise',),
                  excluded_sections=()):
         """
         :param first_line: indicate if description should start
