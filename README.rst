@@ -10,14 +10,14 @@ Project Status
 
 **Test Status**
 
-Linux: |travis|
+Linux: |github|
 
 Windows: |appveyor|
 
 
-.. |travis| image:: https://travis-ci.org/dadadel/pyment.svg?branch=master
-    :target: https://travis-ci.org/dadadel/pyment.svg?branch=master
-    :alt: Linux tests (TravisCI)                                   
+.. |github| image:: https://github.com/dadadel/pyment/actions/workflows/run_tests.yml/badge.svg
+    :target: https://github.com/dadadel/pyment/actions/workflows/run_tests.yml/badge.svg
+    :alt: Linux tests (Github Actions)
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/f9d4jps5fkf4m42h?svg=true
     :target: https://ci.appveyor.com/api/projects/status/f9d4jps5fkf4m42h?svg=true
