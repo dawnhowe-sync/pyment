@@ -15,8 +15,8 @@ Linux: |github|
 Windows: |appveyor|
 
 
-.. |github| image:: actions/workflows/run_tests.yml/badge.svg
-    :target: actions/workflows/run_tests.yml/badge.svg
+.. |github| image:: https://github.com/dadadel/pyment/actions/workflows/run_tests.yml/badge.svg
+    :target: https://github.com/dadadel/pyment/actions/workflows/run_tests.yml/badge.svg
     :alt: Linux tests (Github Actions)
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/f9d4jps5fkf4m42h?svg=true
